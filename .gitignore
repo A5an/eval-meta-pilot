@@ -1,0 +1,11 @@
+.env
+.venv/
+models/
+adapters/
+data/raw/
+logs/
+__pycache__/
+.DS_Store
+# Message Batches state (ids of in-flight batches)
+*_batch.json
+results/smoke/
